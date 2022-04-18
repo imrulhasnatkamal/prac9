@@ -1,0 +1,83 @@
+body{
+    font-size: ;
+}
+.header{
+    overflow: hidden;
+    background-color: rgb(155, 29, 233);
+}
+.logo{
+    width: 40%;
+    height: 100px;
+    float: left;
+}
+.logo-image{
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.nav{
+    width: 60%;
+    height: 100px;
+    float: right;
+}
+.nav2{
+    padding-top: 30px;
+    padding-left: 610px;
+}
+nav{
+    display: inline;
+    font-size: 25px;
+    padding-left: 10px;
+}
+.backg{
+    background-image : url('../image/tw.jpg');
+    border: 5px solid rgb(13, 207, 36);
+    overflow: hidden;
+
+}
+.pic1{
+    width: 49%;
+    height: 600px;
+    float: left;
+}
+.img1{
+    width: 500px;
+    height: 500px;
+    border: 5px solid rgb(236, 228, 0);
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.pic2{
+    width: 49%;
+    float: right;
+    height: 600px;
+}
+.img2{
+    width: 500px;
+    height: 500px;
+    border: 5px solid rgb(236, 228, 0);
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.h3{
+    border: 5px solid rgb(161, 0, 236);
+
+}
+#h3f{
+    font-family: arial;
+    font-style: italic;
+    padding: 10px;
+    margin: 0px;
+}
+#h1f{
+    margin: 0px;
+}
+.footer{
+    height:150px;
+    background-color:rgb(13, 207, 36);
+    border: 5px solid rgb(236, 228, 0);
+    text-align: center;
+}
+#copy{
+    margin-top: 50px;
+}
